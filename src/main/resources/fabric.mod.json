@@ -5,11 +5,11 @@
 	"name": "Bigger Barrels",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"FsmDev"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://fsmdev.net/",
+		"sources": "https://github.com/fsmdev-net/bigger-barrels"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/biggerbarrels/icon.png",
@@ -23,10 +23,9 @@
 		"biggerbarrels.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.16.5",
+		"fabricloader": ">=0.16",
 		"minecraft": "~1.21",
-		"java": ">=21",
-		"fabric-api": "*"
+		"java": ">=21"
 	},
 	"suggests": {
 		"another-mod": "*"
