@@ -3,7 +3,7 @@
 	"id": "biggerbarrels",
 	"version": "${version}",
 	"name": "Bigger Barrels",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod changes the size of the barrel from 3 to 6 rows.",
 	"authors": [
 		"FsmDev"
 	],
